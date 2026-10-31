@@ -1,0 +1,12 @@
+{
+  "name": " Tactical wi-COMM SUBDISRUDAL",
+  "description": "Sistem Komunikasi Radio Taktis (HT) Offline Berbasis Hotspot Wi-Fi Lokal \u0026 Barcode Pairing untuk Personel Diskomlekau tanpa koneksi internet.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

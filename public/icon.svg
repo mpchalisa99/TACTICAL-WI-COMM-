@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="96" fill="#0B111E"/>
+  <rect x="24" y="24" width="464" height="464" rx="76" stroke="#1E293B" stroke-width="8"/>
+  <!-- Antenna -->
+  <rect x="164" y="56" width="28" height="104" rx="14" fill="#F59E0B"/>
+  <circle cx="178" cy="56" r="18" fill="#F59E0B"/>
+  <!-- Radio Waves -->
+  <path d="M236 86C262 66 296 66 322 86" stroke="#38BDF8" stroke-width="12" stroke-linecap="round"/>
+  <path d="M220 58C258 28 300 28 338 58" stroke="#38BDF8" stroke-width="10" stroke-linecap="round" stroke-opacity="0.6"/>
+  <!-- HT Body -->
+  <rect x="136" y="148" width="240" height="300" rx="32" fill="#1E293B" stroke="#475569" stroke-width="8"/>
+  <!-- LCD Screen -->
+  <rect x="168" y="180" width="176" height="88" rx="12" fill="#064E3B" stroke="#10B981" stroke-width="4"/>
+  <text x="256" y="234" text-anchor="middle" fill="#34D399" font-family="monospace" font-weight="bold" font-size="34">142.850</text>
+  <!-- Speaker Grille -->
+  <line x1="176" y1="304" x2="336" y2="304" stroke="#94A3B8" stroke-width="8" stroke-linecap="round"/>
+  <line x1="176" y1="332" x2="336" y2="332" stroke="#94A3B8" stroke-width="8" stroke-linecap="round"/>
+  <line x1="176" y1="360" x2="336" y2="360" stroke="#94A3B8" stroke-width="8" stroke-linecap="round"/>
+  <!-- PTT Side Button -->
+  <rect x="112" y="200" width="24" height="96" rx="8" fill="#F59E0B"/>
+  <!-- Wing / Star Emblem -->
+  <polygon points="256,386 266,406 288,408 271,422 276,442 256,431 236,442 241,422 224,408 246,406" fill="#F59E0B"/>
+</svg>
